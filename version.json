@@ -1,0 +1,5 @@
+{
+  "version": "4.1",
+  "changelog": "Fix: collision check no longer blocks empty saves",
+  "download_url": "https://github.com/muziqconan/barbarians-buildmanager/releases/latest/download/Barbarians_BuildManager.exe"
+}
