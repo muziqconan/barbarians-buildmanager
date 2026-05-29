@@ -10,7 +10,6 @@ A desktop tool to **export and import player builds** between Conan Exiles serve
 - Automatic database backup before every import
 - Detects required mods with Steam Workshop links
 - Collision check — blocks import if the map location is already occupied
-- Auto-updater — notifies you when a new version is available
 
 ## Download
 👉 **[Latest release](https://github.com/muziqconan/barbarians-buildmanager/releases/latest)**
